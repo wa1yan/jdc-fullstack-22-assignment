@@ -4,15 +4,10 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Course Edit</title>
 </head>
 <body>
-	<h1>Assignment One</h1>
-	
-	<h3>Courses</h3>
-	
-	<div>
-		<a href="course-edit">Add New Course</a>
-	</div>
+
+	<h1>Course Edit</h1>
 </body>
 </html>

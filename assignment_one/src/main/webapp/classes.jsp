@@ -7,12 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>Assignment One</h1>
-	
-	<h3>Courses</h3>
-	
-	<div>
-		<a href="course-edit">Add New Course</a>
-	</div>
+
 </body>
 </html>
